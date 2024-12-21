@@ -1,5 +1,5 @@
 
-# Programlama Temellerine Giriş ve C# Öğrenme Yol Haritası
+# Programlama Temellerine Giriş ve C# Öğrenme Yol Haritası Başlangıç Seviyesi
 
 Eğer programlama temeliniz zayıfsa veya hiç yoksa, öncelikle **algoritma öğrenmek** gerekir.
 Algoritma mantığını kavradıktan sonra, istediğiniz programlama dilini öğrenmek çok daha kolay olacaktır.
@@ -23,7 +23,6 @@ C dilinin temelini öğrendikten sonra diğer dillere geçiş yapmak oldukça ko
 ## 2. Adım: C# Temellerini Öğrenmek
 
 Programlama temellerini kavradıktan sonra sıra **C# dilini öğrenmeye** geliyor.
-C#, geniş bir ekosisteme ve güçlü bir topluluğa sahip olduğu için öğrenmesi keyifli bir dildir.
 Bu seviyede iki kaynak öneriyorum:
 
 1. **Türkçe Kaynak**: Gencay Yıldız'ın hazırladığı *C# Dersleri* serisi.
@@ -47,7 +46,7 @@ OOP, modern yazılım geliştirme süreçlerinin temelini oluşturur. Bu noktada
 
 ---
 
-## 4. Adım: Veritabanı ve Entity Framework
+## 4. Adım: Veritabanı ve ORM(Entity Framework)
 
 Bu noktaya kadar:
 - Algoritma temellerini,
@@ -62,8 +61,5 @@ Aşağıdaki kaynaklarla bu adımları tamamlayabilirsiniz:
 2. **Entity Framework**: [Entity Framework'e Giriş - Önerilen Kaynak](http://localhost)
 
 ---
-
-## Sonuç
-
-Bu yol haritasını takip ederek sıfırdan başlayarak programlama temellerini öğrenebilir ve C# dilinde sağlam bir temel oluşturabilirsiniz.
-Öğrenme süreciniz boyunca bol bol pratik yapmayı ve projeler geliştirmeyi ihmal etmeyin.
+Bundan sonraki makalemde inşallah bir adım ötesinde öğrenilmesi gerekenler ve kaynak paylaşımında bulunacağım
+Allaha emanet olun
